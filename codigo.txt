@@ -1,5 +1,5 @@
 quantia_poupada(21000).
-gantos(25000, estavel).
+ganhos(25000, estavel).
 dependentes(3).
 
 poupanca_min(K, Y):- K is Y * 5000.
